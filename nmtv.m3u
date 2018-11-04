@@ -127,7 +127,7 @@ http://5.137.190.207:1234/udp/225.54.205.143:5000
 #EXTINF:-1 group-title="Кулинария;HD" tvg-id="8620" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/7.png" tvg-name="Q4 | Еда Премиум",Q4 | Еда Премиум
 #EXTGRP:Кулинария
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
-#EXTINF:-1 group-title="Познавательные;HD" tvg-id="21007" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/11.png" tvg-name="Q5 | Discovery Science HD",Q5 | Discovery Science HD
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="21007" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/11.png" tvg-name="Q5, Discovery Science HD
 http://painel.ebanonet.com.br:25461/Sarita/Sarita1/7861
 
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="3449" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/18.png" tvg-name="Q5, Discovery Channel HD

@@ -128,20 +128,20 @@ http://5.137.190.207:1234/udp/225.54.205.143:5000
 #EXTGRP:Кулинария
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="21007" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/11.png" tvg-name="Q5 | Discovery Science HD",Q5 | Discovery Science HD
-#EXTGRP:Познавательные
 http://painel.ebanonet.com.br:25461/Sarita/Sarita1/7861
+
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="3449" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/18.png" tvg-name="Q5 | Discovery Channel HD",Q5 | Discovery Channel HD
-#EXTGRP:Познавательные
 http://193.200.164.153:80/live/Conad/gQV1RY19yJ/3865.ts
+
 #EXTINF:-1 group-title="Познавательные" tvg-id="1231" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/12.png" tvg-name="Q5 | Discovery Channel",Q5 | Discovery Channel
-#EXTGRP:Познавательные
 http://128.74.255.106:4022/udp/233.33.210.27:5050
+
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="20839" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/10.png" tvg-name="Q5 | Discovery HD Showcase",Q5 | Discovery HD Showcase
-#EXTGRP:Познавательные
 http://giantofthefuture.gleeze.com:25461/live/alex01/alex01/1034.ts
+
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/77.png" tvg-name="Q5 | Investigation Discovery",Q5 | Investigation Discovery
-#EXTGRP:Познавательные
 http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/125.ts
+
 #EXTINF:-1 group-title="Познавательные;HD" tvg-id="10328" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/13.png" tvg-name="Q4 | National Geographic HD",Q4 | National Geographic HD
 #EXTGRP:Познавательные
 http://185.107.240.196:81/udp/230.3.4.0:5678

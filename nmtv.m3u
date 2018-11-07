@@ -359,6 +359,7 @@ http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/626.ts
 
 #EXTINF:-1 group-title="18+", Русская ночь
 http://50.7.127.60:8081/rusnoch/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg9000fba88fb1f5485984ae3e7c0c5cd0T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+http://50.7.127.60:8081/rusnoch/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg71d81f6261c657fb6f5df1619609fc1bT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
 #EXTINF:-1 group-title="18+", Brazzers
 http://50.7.127.60:8081/brazzers/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg44888d3669453b1ad06a3e23c1c8a003T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
@@ -372,6 +373,8 @@ http://50.7.127.60:8081/penthouse1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC
 #EXTINF:-1 group-title="18+", O-la-la
 http://50.7.127.60:8081/olala/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggef723fe7400e8edbd0d7b8841e7430ccT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
 
-
 #EXTINF:-1 group-title="18+", RedlightHD
 http://50.7.127.60:8081/redlight/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg1b320b03f11da43c7f192e140afab592T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
+#EXTINF:-1 group-title="18+", Dusk
+http://50.7.127.60:8081/dusk/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg4c79b2ab00be39840a9ecf5053221887T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==

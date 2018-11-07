@@ -373,3 +373,6 @@ http://50.7.127.60:8081/playboy/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yM
 
 #EXTINF:-1 group-title="18+", Penthouse
 http://50.7.127.60:8081/penthouse1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggdc6a911686a29bf155a6ed73cf78b1e8T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
+#EXTINF:-1 group-title="18+", O-la-la
+http://50.7.127.60:8081/olala/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTggef723fe7400e8edbd0d7b8841e7430ccT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==

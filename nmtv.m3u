@@ -4,7 +4,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Избранные",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Избранные",Россия24
-http://163.172.24.228/hls/07/index.m3u8?md=8mge4u_p4MQcdGRu2fh5_Q&e=1541638175
+https://r1---sn-4pvgq-gv8e.googlevideo.com/videoplayback?id=K59KKnIbIaM.3&itag=135&key=yt6&ip=81.162.105.77&ei=gWjjW6W6Ioff7ASI_b0Y&ms=lv&keepalive=yes&mv=m&expire=1541651681&signature=D1364BB35A3F378906BF5DE65521BE3AB79C2E62.634DB98D8D12F2A7E9BB3083E8C902E4E62DEC2D&requiressl=yes&ipbits=0&mm=32&mn=sn-4pvgq-gv8e&hang=1&gcr=us&c=WEB_EMBEDDED_PLAYER&initcwndbps=1735000&gir=yes&source=yt_live_broadcast&pl=19&mt=1541630006&cmbypass=yes&live=1&aitags=133%2C134%2C135%2C136%2C160&mime=video%2Fmp4&noclen=1&sparams=aitags%2Ccmbypass%2Cei%2Cgcr%2Cgir%2Chang%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clive%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cnoclen%2Cpl%2Crequiressl%2Csource%2Cexpire&alr=yes&cpn=TU_bIvHJEOnfzFPO&cver=20181106&sq=5175062&rn=13&rbuf=21178
 #EXTINF:-1 group-title="Избранные",ОРТ
 http://163.172.80.251/hls/01/index.m3u8?md=0YZAUpXO9hxTMt_xeFlJpg&e=1541638999
 

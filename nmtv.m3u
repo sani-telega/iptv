@@ -5,6 +5,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Избранные",Россия24
 http://163.172.24.228/hls/07/index.m3u8?md=8mge4u_p4MQcdGRu2fh5_Q&e=1541638175
+#EXTINF:-1 group-title="Избранные",ОРТ
+http://163.172.80.251/hls/01/index.m3u8?md=0YZAUpXO9hxTMt_xeFlJpg&e=1541638999
 
 #EXTINF:-1 group-title="Музыкальные",Music Box
 http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8

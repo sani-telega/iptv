@@ -355,3 +355,5 @@ http://painel.ebanonet.com.br:25461/Sarita/Sarita1/6142
 #EXTINF:-1 group-title="Животные" tvg-id="392" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/98.png",Animal Planet
 http://titaniptv.com:9140/live/ojjZMPQGF1/nt3bNSDtbx/626.ts
 
+#EXTINF:-1 group-title="18+", Русская ночь
+http://50.7.127.60:8081/rusnoch

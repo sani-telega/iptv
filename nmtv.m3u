@@ -11,6 +11,8 @@ http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый Музыкальный BY
 http://rtmp.one.by:1200
 
+#EXTINF:-1 group-title="Спорт",МатчТВ
+https://video-4-306.rutube.ru/live-hls/AXKaPZUe1M15W8656a-oNQ/1546622800/49/56102/move/four/dirs/upper/720pNum5550.ts
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://hls.boxingtvru.cdnvideo.ru/boxingtvru/boxingtvru_hq/playlist.m3u8
 
